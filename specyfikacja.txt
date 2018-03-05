@@ -1,0 +1,19 @@
+Specyfikacja wymagañ
+
+Ograniczenia
+*Aplikacja bedzie dzia³ac wy³¹cznie na systemach Windows 7 wzwy¿.
+*Aplikacja nie obejmuje procesorów ARM.
+*Nie bêdzie prowadzonych plików log.
+*Nie bêdzie pomiaru temperatury na poszczególnych rdzeniach.
+*Nie bêdzie pokazywaæ temperatur pozosta³ych podzespo³ów.
+
+Wymagania funkcjonalne
+*Program bêdzie odczytywaæ temperature i u¿ycie CPU.
+*W aplikacji bedzie mo¿liwosc zmiany jednostki temperatury.
+
+Wymagania niefunkcjonalne
+*Interfejs aplikacji bedzie przyjemny dla oka.
+*Aplikacja bêdzie przenoœna.
+*Odczyt temperatury oraz u¿ycia CPU bedzie dok³adny.
+*Aplikacja bêdzie ³atwa w obs³udze.
+*
