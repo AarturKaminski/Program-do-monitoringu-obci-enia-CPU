@@ -1,1 +1,0 @@
-# Program-do-monitoringu-obci-enia-CPU
