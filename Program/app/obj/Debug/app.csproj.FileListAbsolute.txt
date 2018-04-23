@@ -1,0 +1,31 @@
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\app.exe.config
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\app.exe
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\app.pdb
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.Form1.resources
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.exe
+C:\Users\Mariusz\source\repos\app\app\obj\Debug\app.pdb
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\CircularProgressBar.dll
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\WinFormAnimation.dll
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\CircularProgressBar.xml
+C:\Users\Mariusz\source\repos\app\app\bin\Debug\WinFormAnimation.xml
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\app.exe.config
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\app.exe
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\app.pdb
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\CircularProgressBar.dll
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\OpenHardwareMonitorLib.dll
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\WinFormAnimation.dll
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\CircularProgressBar.xml
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\bin\Debug\WinFormAnimation.xml
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.Form1.resources
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.Properties.Resources.resources
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.csproj.GenerateResource.cache
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.csproj.CopyComplete
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.exe
+E:\POLIBUDA\Semestr 6\Proj_Zesp\app\app\obj\Debug\app.pdb
