@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -43,10 +43,17 @@ namespace app
 
         public void GetGPUInfo(string hwclass, string syntax)
         {
-            ManagementObjectSearcher mos = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM " + hwclass);
+            ManagementObjectSearcher mos = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_DisplayConfiguration");
             foreach (ManagementObject mj in mos.Get())
             {
-                label2.Text = ((Convert.ToString(mj[syntax])) + "\r\n");
+                foreach(PropertyData property in mj.Properties)
+                {
+                    if(property.Name == "Description")
+                    {
+                        label2.Text = property.Value.ToString();
+                    }
+                }
+                
             }
         }
 
@@ -66,6 +73,7 @@ namespace app
             circularProgressBar2.Value = gpu.Gputemp();
             circularProgressBar2.Text = unit.C_GPUTemp().ToString();
 
+            
             circularProgressBar4.Value = gpu.Gpuload();
             circularProgressBar4.Text = gpu.Gpuload().ToString();
             }
@@ -112,5 +120,7 @@ namespace app
             circularProgressBar2.Maximum = 212;
 
         }
+
+      
     }
 }
