@@ -1,4 +1,4 @@
-﻿using OpenHardwareMonitor.Hardware;
+using OpenHardwareMonitor.Hardware;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +14,7 @@ namespace app
         string gpu_temp;
         int gpuload;
         string gpu_load;
+        string gpu_name;
 
         public GPU()
         {
@@ -58,6 +59,7 @@ namespace app
             }
             return gputemp;
         }
+
 
         public int Gpuload()
         {
